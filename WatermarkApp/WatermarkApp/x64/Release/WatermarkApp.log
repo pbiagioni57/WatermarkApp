@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  D2DWrapper.cpp
+c:\users\manager\documents\visual studio 2017\projects\watermarkapp\watermarkapp\DirectXSample.h(40): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdlib.h(1019): note: see declaration of 'wcstombs'
+c:\users\manager\documents\visual studio 2017\projects\watermarkapp\watermarkapp\DirectXSample.h(42): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+  ParseArgs.cpp
+  WatermarkApp.cpp
+c:\users\manager\documents\visual studio 2017\projects\watermarkapp\watermarkapp\DirectXSample.h(40): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdlib.h(1019): note: see declaration of 'wcstombs'
+c:\users\manager\documents\visual studio 2017\projects\watermarkapp\watermarkapp\DirectXSample.h(42): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+WatermarkApp.cpp(62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  All 510 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  WatermarkApp.vcxproj -> C:\Users\manager\Documents\Visual Studio 2017\Projects\WatermarkApp\x64\Release\WatermarkApp.exe
