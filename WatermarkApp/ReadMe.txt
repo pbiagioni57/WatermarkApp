@@ -10,7 +10,7 @@ repository "pbiagioni9694/WatermarkApp".
 
 INSTALLATION:
 ------------
-1. Copy the program "Watermark\x64\Release\watermarkapp.exe" to a folder where user
+1. Copy the program "WatermarkApp\x64\Release\watermarkapp.exe" to a folder where user
    has read/execute permission.
 2. Copy the test files "WatermarkApp\pizza.png" and "WatermarkApp\watermark.tif"
    to a folder where the user has read permission.
